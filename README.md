@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikheevDesign
-- 👀 I’m interested in ...Ruby
-- 🌱 I’m currently learning ...Ruby on Rails
+- 👀 I’m interested in ...PHP
+- 🌱 I’m currently learning ...Symfony
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
